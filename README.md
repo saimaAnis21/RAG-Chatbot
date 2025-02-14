@@ -1,5 +1,4 @@
 ## Project
-```bash
 1- Clone the project to your local machine using `git clone git@github.com:saimaAnis21/RAG-Chatbot.git` 
 2- CD into the project directory
 3- Run `npm install` to install the dependancies
