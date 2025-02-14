@@ -39,7 +39,7 @@ export const initialMessages: Message[] = [
     role: "assistant",
     id: "0",
     content:
-      "Hi! Customer assistant From IERA dawah. Please Ask anything about Praying in Islam and I will try to answer it.",
+      "Hi! I'm your Tenancy Guide, here to assist tenants in Queensland. Feel free to ask me anything about tenancy requirements, rights, and responsibilities. I'm here to help!",
   },
 ];
 
